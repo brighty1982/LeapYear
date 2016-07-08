@@ -2,9 +2,6 @@ package com.uw
 
 import com.sun.org.apache.xpath.internal.operations.Bool
 
-/**
- * Created by abright on 08/07/2016.
- */
 class LeapYear {
 
     Boolean isLeap

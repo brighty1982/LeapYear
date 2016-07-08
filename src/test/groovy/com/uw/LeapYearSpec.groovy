@@ -2,9 +2,6 @@ package com.uw
 
 import spock.lang.Specification
 
-/**
- * Created by abright on 08/07/2016.
- */
 class LeapYearSpec extends Specification{
 
     def "Value divided by 4 is Leap Year"(){
