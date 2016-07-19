@@ -1,2 +1,3 @@
 dependencies:
-- chmod +x gradlew
+  override:
+    - chmod +x gradlew
