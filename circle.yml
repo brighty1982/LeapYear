@@ -9,6 +9,7 @@ machine:
 
 dependencies:
   override:
+    - chmod +x gradlew
     - ./gradlew dependencies
 #    - git config user.email "none@example.com"
 #    - git config user.name "Circle CI Build for smartmetering"
